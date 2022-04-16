@@ -1,8 +1,8 @@
 # 👨‍🍳 Restaurant Management System
 
 ## Project Description
-DineOut is an **Android based Restaurant Management System** that aims to digitalize the process of various restaurant operations including **ordering, billing kitchen, hall and inventory management**. 
-This will help to maintain a digital restaurant management system.
+DineOut is an **Android based Restaurant Management System** that aims to digitalize the process of various restaurant operations including **ordering, billing kitchen, hall and inventory management**. This project is made by using MVC pattern. In the app file you will be able to see all the java file and also MVC pattern.
+This will help to maintain a digital restaurant management system. 
 
 
 ## User Classes and Characteristics
